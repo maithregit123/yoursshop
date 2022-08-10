@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/maithregit123/yoursshop/issues"
   },
-  "homepage": "https://github.com/maithregit123/yoursshop#readme"
+  "homepage": "https://github.com/maithregit123/yoursshop#readme",
+  "dependencies": {
+    "dialogflow": "^1.2.0",
+    "uuid": "^8.3.2"
+  }
 }
